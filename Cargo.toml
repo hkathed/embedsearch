@@ -5,7 +5,7 @@ edition = "2024"
 description = "Lightweight embeddable full-text search engine in pure Rust"
 license = "MIT"
 repository = "https://github.com/hkathed/embedsearch"
-readme = "../../README.md"
+readme = "README.md"
 keywords = ["search", "search-engine", "index", "bm25", "text"]
 categories = ["text-processing"]
 
