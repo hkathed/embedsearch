@@ -1,3 +1,6 @@
+[![crates.io](https://img.shields.io/crates/v/embedsearch.svg)](https://crates.io/crates/embedsearch)
+[![docs.rs](https://docs.rs/embedsearch/badge.svg)](https://docs.rs/embedsearch)
+
 
 # embedsearch
  Tiny, fast, embeddable full-text search engine written in pure Rust.
